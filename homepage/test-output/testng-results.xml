@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="138260" started-at="2017-01-04T09:04:40Z" finished-at="2017-01-04T09:06:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="138260" started-at="2017-01-04T09:04:40Z" finished-at="2017-01-04T09:06:58Z">
+      <class name="homepagepackage.Homepageautomation">
+        <test-method status="PASS" signature="setup()[pri:0, instance:homepagepackage.Homepageautomation@7fa833]" name="setup" is-config="true" duration-ms="14591" started-at="2017-01-04T14:34:40Z" finished-at="2017-01-04T14:34:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testhomepage()[pri:0, instance:homepagepackage.Homepageautomation@7fa833]" name="testhomepage" duration-ms="4192" started-at="2017-01-04T14:34:54Z" finished-at="2017-01-04T14:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhomepage -->
+        <test-method status="PASS" signature="testlevel()[pri:0, instance:homepagepackage.Homepageautomation@7fa833]" name="testlevel" duration-ms="118376" started-at="2017-01-04T14:34:59Z" finished-at="2017-01-04T14:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlevel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:homepagepackage.Homepageautomation@7fa833]" name="teardown" is-config="true" duration-ms="1086" started-at="2017-01-04T14:36:57Z" finished-at="2017-01-04T14:36:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- homepagepackage.Homepageautomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
